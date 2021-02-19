@@ -1,6 +1,6 @@
 {
   "public": {
-    "uploads": "http://wordexpress.dev/wp-content/uploads/",
+    "uploads": "localhost/wowo/wp-content/uploads/",
     "amazonS3": false
   },
   "private": {
@@ -9,7 +9,7 @@
       "name": "wpexpress_dev",
       "username": "root",
       "password": "",
-      "host": "127.0.0.1"
+      "host": "localhost"
     }
   }
 }
